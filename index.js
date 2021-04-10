@@ -1,2 +1,4 @@
 abcdaes
 break; indexdassasdad
+
+const
